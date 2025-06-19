@@ -1,2 +1,1 @@
-# Devops-Automation
-java-techie
+# devops-automation
